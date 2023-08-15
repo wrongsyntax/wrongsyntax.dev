@@ -1,0 +1,28 @@
+html {
+    background-color: #1e2126;
+}
+
+.container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.message {
+    text-align: center;
+}
+
+.title {
+    color: #1e2126;
+    padding: 10px;
+    font-family: 'Fira Code', monospace;
+    background: rgb(17,174,145);
+    background: linear-gradient(125deg, #11ae91 0%, #E2BB57 100%);
+}
+
+.links {
+    font-family: 'Fira Sans', sans-serif;
+    color: #c3c3c3;
+}
